@@ -1,0 +1,8 @@
+﻿  EnigmaAr.cpp
+C:\Users\EGOR4\source\repos\EnigmaAr\EnigmaAr\EnigmaAr.cpp(74,13): warning C4267: return: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\EGOR4\source\repos\EnigmaAr\EnigmaAr\EnigmaAr.cpp(83,13): warning C4267: return: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\EGOR4\source\repos\EnigmaAr\EnigmaAr\EnigmaAr.cpp(184,30): warning C4267: return: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\EGOR4\source\repos\EnigmaAr\EnigmaAr\EnigmaAr.cpp(189,9): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+C:\Users\EGOR4\source\repos\EnigmaAr\EnigmaAr\EnigmaAr.cpp(124): warning C4715: FindPair: значение возвращается не при всех путях выполнения
+C:\Users\EGOR4\source\repos\EnigmaAr\EnigmaAr\EnigmaAr.cpp(187): warning C4715: GetAlNum: значение возвращается не при всех путях выполнения
+  EnigmaAr.vcxproj -> C:\Users\EGOR4\source\repos\EnigmaAr\x64\Debug\EnigmaAr.exe
